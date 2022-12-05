@@ -1,0 +1,193 @@
+<html><head>
+        <title>LAMUYBICHOT</title>
+         <meta charset="utf-8 ">
+         <meta name="author" content="Lucia Amo Guijo">
+         <meta name="description" content="La vida de una Bichota">
+    </head>
+    <body style="background-color:darkcyan">   
+       <table>
+        <tbody><tr>
+            <td>
+                <img src="Perfil.jpg">
+            </td>
+            <td>
+                <h1 style="color:aliceblue;font-size:75;margin-left:170">
+                    -LUCIA AMO GUIJO-
+                </h1>
+                <p style="color:rgb(0, 182, 61);font-size:35;margin-left:300px">
+                    <strong>LA VIDA DE UNA BICHOTA</strong>
+                </p>
+            </td>
+        </tr>
+       </tbody></table>
+       <hr style="background-color:azure;height:8px">
+        <table>
+            <tbody><tr>
+                <td>
+                    <nav style="font-size:20px;background-color:azure;border-color:black;border-width:2px;">
+                        Indice<br><a href="#Un poco sobre mi">ºUn poco sobre mi </a><br><a href="#Biografia ">ºBiografia</a><br><a href="#Primaria">ºPrimaria</a><br><a href="#Elinstituto">ºEl instituto</a><br><a href="#Bachillerato">ºBachillerato</a><br><a href="#Deportes">ºDeportes</a><br><a href="#Gentequemecaemal">ºGente que me cae mal</a><br><a href="#Gentequenorespeto">ºGente que no respeto</a><br><a href="#Medidas">ºMedidas de mi Cuerpo</a>
+                    </nav>    
+                </td>
+                <td>
+                    <main id="Un poco sobre mi" style="font-size:20px;margin-left:150;margin-right:100;background-color: beige;border-color:black;border-width:2px;">
+                        Un poco sobre mi,soy una chica de 17 años,mido 1'20,pelo marron con mechas rubias,ojos marrones <br>y con menos habilidad par el deporte que un hamster.Pero yo se que es lo que te interesa saber,<br>quieres saber como a los 15 años me volvi una millonaria y mi fortuna a crecido exponencialmente hasta la fecha
+                    </main>
+                </td>
+            </tr>
+        </tbody></table>
+        <img src="Esplendor.jpg" style="margin-left:600">
+        <table>
+            <tbody><tr>
+                <td>
+                    <p id="Biografia" style="font-size:30px;margin-left:600;margin-right:100;">
+                        <strong>Biografia</strong>
+                    </p> 
+                    <p style="font-size:20px;margin-left:150;margin-right:100;background-color:aquamarine;">
+                        Nací el 10 de Marzo del anño 2005,en España,más concretamente en la comunidad autonoma de Madrid,San Sebastian de los Reyes.Mi madre Asun,me llamó Lucia que significa luz,aunque es el nombre menos usado y el que menos me gusta del resto de los que tengo.A los dos meses de nacer logre decir mi primera palabra y fue DINERO,DINERO,DINERO.En mi primer cumpleaños me regalaron piezas de lego gigante para que pudiera ir construyendo mi primera empresa que llamaria Lucia.inc donde vendia biberones.Cuando cumplí los dos años,extrañamente aun no sabía caminar,para que mi caballo rodolfo me llevaba donde quería.Mis padres no estuvieron nunca conmigo por su trabajo asi que me contrataron una sirvianta yugoslava llamada Miroslava,que me enseño a cocinar,limpiar y a cazar ratas para luego crear trampas para los ratones.Nunca fui a una guarderia ya que era un Lugar para pobres en cambio me llevaron a una escuela privada para perros donde aprendí a comer,a hacer trucos a no gritar,adquiri un amor por los perros y aprendí la verdad más importante de la vida:por cada buena hazaña consigues un premio y por cada fallo un castigo.Por fin a los seis años despues de llorar a mis padres les logre convencer de que me dejaran entrar a la escuela publica primaria Antonio Machado. 
+                    </p>
+                </td>
+                <td>
+                    <img src="Bebe.jpg">
+                </td>
+            </tr>
+            <tr>
+                <td height="20px">
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p id="Primaria" style="font-size:30px;margin-left:550;margin-right:100px;">
+                        <strong> Mi Escuela Primaria</strong>
+                    </p>
+                    <p style="font-size:20px;margin-left:150;margin-right:100;background-color:aquamarine;">
+                        La primera profesora que tuve en primero se llamaba Ana nosecuantos era una puta que gritaba a niños de seis años por no saber Mates,solo dijo bien hecho tres veces en todo el curso al final me aprobó,como no lo iba hacer le compre una mansión para ella solo.Una gran profesora que tuvimos fue Visi,una profesora de Cordoba,nos daba biologia,un maldito coñazo no pienso estudiarlo nunca,geología,otro igual ya ves lo mucho que me la pelaba que me enseñasen sobre el Carbón si no habia diamantes,oro o joyas no me interesan las piedras,Histora y geografia me encantaban saber que hicieron en el pasado cuando no habia nacido ni mi tatarabuelo es mi pasión.Uno de mis profesores favoritos fue Julio un viejete muy mono que daba educación fisica de verdad y no la mierda de ahora ademas siempre iba cantando una cancioncilla que decía:adios con el corazón,que con el alma no puedoo.Ademas de los profesores tambien tuvce compañeros unos me caían mejor y otros peor,pero lo mas importante es que todos me caían como el puto culo.Entre los que me caían bien estaban Nerea una chica más alta que yo con gafas y una personalidad debil(sabia que podia hacerla mi exclava),Jimena otra chica incluso mas alta que nerea tambien llevaba gafas,creo.Victor un chico con la piel demasiado blanca que ademas traía los mejores disfraces por Carnaval y Cesar un chico grande que pasó de ser muy agresivo a muy sumiso,justo como me gustan...Otras personas que destacan son Rocio Recuero y Celia Nieto dos chicas de otra clase de las que me hice muy amigas por que como yo eran celiacas,pero como no podía permitir que me ganaran hice experimentos para yo ser incluso más celiaca que ella,sin saber las consecuencias,valió la pena,un chico que siempre perdia las gafas,David Rodriguez un tipo alto que me caia mal,iba mal y ha acabado peor.Una profesora que me cayo como el orto fue Carmen,osea era una persona majisisma y tal pero la muy rata me hizo actuar en dos obras de teatro una como Julieta y otra como flamenca osea ponerme a bailar a MI sin pagar encima eso si que no.Otro profesor fue Mateo del que mejor ni hablar por que en fin era como la Ana pero el triple,no me dejo ganar fortuna osea indigante,me enerva pero me aprovó asi que ...Poco despues mi Sirvienta murio y me dejo como heredera del trono de Yugoslavia y en su honor me compre un perro de agua y decidi llamarlo...Bufón osea ni de suerte lo llamaba como ella que nombre más pobre. 
+                    </p>
+                </td>
+                <td>
+                    <img src="Atragar.jpg">
+                </td>
+            </tr>
+            <tr>
+                <td height="20px">
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p id="Elinstituto" style="font-size:30px;margin-left:550;margin-right:100px;">
+                        <strong>El Instituto</strong>
+                    </p>
+                    <p style="font-size:20px;margin-left:150;margin-right:100;background-color:aquamarine;">
+                        Entre todos los institutos de Madrid elegí el Joan Miró.Una vez ya dentro me di cuenta que me habia tocado junto a Rocio y Victor y cree un grupo junto a ellos con Nerea,Jimena,una chica nueva con renombre en tiktok llamada Irenika y un tal Adrian Antón Tirado.Nos hizimos muy amigos y anque ellos piensen qeu no lo sé.sé que solo se juntan a mi por mi dinero.Excepto Victor que tambien es rico como yo ideamos un montonazó de planes poco despues tuvimos una pelea con Jimena por culpa de Irene o algo asi no me traía dinero así que se me ha olvidado,lo gracioso es que tambien nos distanciamos de Irene asi que todo salió bien.Otra cosa que ocurrió fue la extraña relación entre Rocio y Victor,pero pronto vuelven a reconciliarse.Poco Después el medico me diagnostico discapacidad de movimiento,aun nivel más grande que el de hwakins es joder si el y yo compitiesemos en puto Voley ganarya el siempre es que soy jodidamente inutil en los deportes.La llegada de tercero de la Eso trajo vientos nuevos con la creación del grupo de las monjas rusas y la implementacion de gente como yolanda,serene,lucia ortega,marta,rafael(el tambien estaba antes pero a Victor ahora le cae como el orto) y Ani,aunque ese grupo no acabó muy bien por culpa de la pobreza que había en algunos miembros que no voy a mencionar que creo una toxicidad enorme con discusiones y malos rollos en Cuarto de las Eso.En tercero fui a ver con mi MEJOR AMIGA NEREA y los demas del grupo de las monjas a ver la peli del Joker con quien me siento identificada por que ambos somos incomprendidos aunque el pobre y yo soy l aputa princesa de Yugoslavia.La llegada de la pandemia hizo que me volviera más vaga ya que yo no estudiaba lo hacían mis sirvientes.Cuarto de la eso me acercó a Serene y Adrian ya que era la gente con la que mejor me llevaba de la clase.Mi discapacidad empezó a ser más fuerte como por ejemplo jugar al tenis con la mano teniendo un a pala en la otra mano.Tambien mejore mucho con las mates como logritom de base 25 de 25 igual a 81 y fisica que no entendí una mierda ya que la profesora se jubiló a mitad de año.Y lo más importante llegue a conseguir un novio,ni dea de como se llama ni de como es solo se que tiene 10 centimetros ya sabeis a que me refiero :),pero ademas lo tiene que hacer genial ya que dije que eso era lo que buscaba en un novio por enzima de todo.
+                    </p>
+                </td>
+                <td>
+                    <img src="Deportes.jpg">
+                </td>
+            </tr>
+            <tr>
+                <td height="20px">
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p id="Bachillerato" style="font-size:30px;margin-left:550;margin-right:100px;">
+                        <strong>Y por fin EL BACHILLERATO</strong>
+                    </p>
+                    <p style="font-size:20px;margin-left:150;margin-right:100;background-color:aquamarine;">
+                        Elegí el bachillerato de ciencias de medicina por que supuse que es el que más dinero me traería.Ademas fue en este curso,en primero le vi a Él: Francisco o como me gusta llamarle Fran quedo siempre con el en el rocodromo mientras mantengo mi relacíon con el de los 10 cm,pero es que todos sabemos quien es el mejor de los dos osea ñam ñam.Sigo manteniendo mi amistad con Adri,Victor,Nerea y Rocio(aunque se a mudado a toledo la muy rata),tambien me he hecho amiga de Yina,la mejor forma de describirla sería como la tipica rubia americana que es superior a las demas por su fortuna.Deje de hablarme con Marta y Lucia,quienes pasaron a llamarse Moon y Parker,pero no me voy a meter en ese tema.Me empezé a obsesionar con las notas(y con fran),ademas todos los examenes me salían mal asi que sacaba 9 y luego me volvía repelente por que bajaba mi media,me dijeron de meterme a un fp de judio pero esa mierda no me iba a dar mucho dinero así que pase.Me conseguí a mi misma un sequito bajo el nombre de Chanel,Chanel 2 y asi sucesivamente segun importancia de mis sirvientas,mi discapacidad de movimiento sigue aumentando,pero mii fortuna no.Uno de mi sequito Victor se ha vuelto un borracho drogadicto qeu me ayuda a acosar a Fran y a una pobre niña llamada Paula Maupoey pero que llamo Mauffin.Durante este tiepo me he vuelto muy fotogenica,como vais a ver en la galería.Ademas empeze a salir con victor ademas de los otros dos en una broma hacía Yina,sale mal,incluso se lo han dicho a los padres de victor junto a que bebo cerveza.Tambien soy capaz de pasarme todo el recreo en el puto baño y de gritar a todo el mundo incluso si solo quieren hablar.Victor me metio en 100 grupos iguales con 100 fotos cada una osea 10 000 mensajes de una valla puto enfermo,no como fran.Empezé a jugar al uno y me di cuenta que me encanta Chupar y no solo en el uno ,sobretodo a Fran.Me toco a una profesora,Noelia,estaba loca,gritaba a todo el mundo y nos decía que todo fue creado en Escocia,la soborne.Estoy harta de biologia.Por otro lado there is a boy in the girls bathroom es un regalo de la literatura.Solo espero que con mi enorme fortuna sea capaz de quedarme junto a Fran aunque no sepa nada de Frances.Empeze a llamarme LA BICHOTA aunque con el tiempo fue evolucioanado a la bellot y la bichot ambos muy monos como Kylie quien es mi inspiración.Ahora solo visto ropa de marca como Gucci x Dior,Dior x Guivenchi o alguna mierda de más de 1000€,pero no pasa nada solo vendo un casino y punto.Tuve hace poco los examenes de la 1º evaluación y como podreís ver en la foto iba más fumada que cuando quedo con Fran o cuando Victor va a una fiesta.Se me olvido mencionar que tengo un cuarto novio,Dani un cani muy mono,no tanto como tu fran, que me invito a una boda y me presentó comon su novia. 
+                    </p>
+                </td>
+                <td>
+                    <img src="Exams.jpg">
+                </td>
+            </tr>
+            <tr>
+                <td height="20px">
+
+                </td>
+            </tr>
+        </tbody></table>
+        <table>
+            <tr>
+                <td>
+                    <p  id="Deportes" style="font-size:30px;margin-left:550;margin-right:100px;">
+                        <strong>Mis Deportes</strong>
+                    </p>
+                    <p style="font-size:20px;margin-left:150;margin-right:100;background-color:aquamarine;">
+                        Por mucho que mi enfermedad dismorfia y discapacidad de movimiento halla estado presente en casi toda mi vida no me ha impidido participar en deportes toda mi vida,incluso logrando convertirme en la mejor en algunos deportes.
+                    </p>
+                    <p style="font-size:30px;margin-left:650;margin-right:100px;">
+                        <strong>Voley</strong>
+                    </p>
+                    <p style="font-size:20px;margin-left:150;margin-right:100;background-color:aquamarine;">
+                        Es uno de mis deportes favoritos,la idea de saltar a por la bola para rematarla me pone mazo.No me gusta la idea de jugar en equipo por que son todos pobres,así que he creado un equipo solo de mi como las Chanel pero bueno he ganado 7 campeonatos nacionales y 2 mundiales,sin contar con las medallas de oro de las olimpiadas.
+                    </p>
+                    <img src="Voley.jpeg" style="margin-left:300px">
+                    <p style="font-size:30px;margin-left:650;margin-right:100px;">
+                       <strong>Tenis</strong>
+                    </p>
+                    <p style="font-size:20px;margin-left:150;margin-right:100;background-color:aquamarine;">
+                        Se me da un poco peor que el voley ya que debido a mi enfermedad a veces me confundo y doy a la bola con la puta mano,aunque como tengo millones soy capaz de comprar las mejores raquetas aunque siempre me las cargo por que me enfado SIEMPRE.Incluso con todo esto no me ha inpedido ganar multiples partidos contra Stephen Hawkings,Pablo Echenique o otros minusvalidos,paraplejicos o otrs enfermos incluidos los que tienen ebola,cancer o otras enfermedades.
+                    </p>
+                    <img src="Tenis.jpg" style="margin-left:300px">
+                    <p style="font-size:30px;margin-left:650;margin-right:100px;">
+                        <strong>Polo</strong>
+                    </p>
+                    <p style="font-size:20px;margin-left:150;margin-right:100;background-color:aquamarine;">
+                        No hay deporte más de rico y presumido que el Polo y se me da genial ya que soy millonaria y solo tengo que imaginarme que es la cabeza de una persona que me cae mal que es una lista muy extensa ,ya hablare despues de eso.He logrado ganar más de 100000000 partidos de Polo y 2000 Campeonatos.Por otra parte una vez que ya has dominado el caballo,por que me encantan sumisos.Eres capaz de llevarlo a la carrera intentando no tropezarte,Ya he ganado más de 1000000 carreras.  
+                    </p>
+                    <img src="Polo-deporte.jpg" style="margin-left:300px">
+                </td>
+            </tr>
+        </table>
+        <table>
+            <tr>
+                <td>
+                    <p id="Gentequemecaemal" style="font-size:30px;margin-left:550;margin-right:100px;">
+                        <strong>Gente que me cae mal</strong>
+                    </p>
+                    <p style="font-size:20px;margin-left:150;margin-right:100;background-color:aquamarine;">
+                        Como demasiada gente me cae mal,solo voy a decir sus nombres y una cualidad:Laura llorente:llorica;El de los granizados:Seis euros;La chica de Jurasic World 2:Insoportable;Las del camping y la prima de Rocio:Nada que decir;y basicamente el rsto de mundo ya que son más estupidos pobres y feos que yo.Asi que no me voy a extender más en esta lista.
+                    </p>
+                    <p id="Gentequenorespeto" style="font-size:30px;margin-left:550;margin-right:100px;">
+                        <strong>Gente que no respeto</strong>
+                    </p>
+                    <p style="font-size:20px;margin-left:150;margin-right:100;background-color:aquamarine;">
+                        En general solo no respeto a dos personas uno de ellos un tal el chico que perdia las gafas quien no merece que nombre y a quien grito cuando me ayuda y bueno ni voy ha hablar más de el.El otro es bufón mi perro osea ya ni siquiera lo saco a pasear de lo poco que lo respeto,literalmente prefiero antes que a mi,pero me da igual,como castigo no le saco a la calle o le doy de comer doble haber si enferma ademas dejo que le den espasmos para que se le destrocen los organos internos.
+                    </p>
+                    <img src="Perro.jpg" style="margin-left:300px">
+                </td>
+            </tr>
+            <tr>
+                <td height="20px">
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p id="Medidas" style="font-size:30px;margin-left:550;margin-right:100px;">
+                        <strong>Medidas de mi cuerpo</strong>
+                    </p>
+                    <p style="font-size:20px;margin-left:350;margin-right:100;background-color:aquamarine;">
+                        No tengo ni puta idea de como funcionan las medidas asi que como estoy increible y muy bichot teneis aqui unas pocas fotos de mi cuerpo en bikini
+                    </p>
+                    <p>
+                         <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="Kylie.jpg">
+                </td>
+                <td>
+                    <img src="Jener.jpg">
+                </td>
+            </tr>
+        </table>
+    
+        
+        </body></html>
